@@ -9,5 +9,4 @@ public class LeanTechKafkaApplication {
     public static void main(String[] args) {
         SpringApplication.run(LeanTechKafkaApplication.class, args);
     }
-
 }
